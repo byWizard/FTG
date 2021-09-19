@@ -36,3 +36,4 @@ class WWWTrMod(loader.Module):
             await message.edit("Обрабатываем запрос...")
             r = requests.get("https://wttr.in/?format=%l:+%c+%t,+%w+%m")
             await message.edit(r.text)
+#by: @axaxaxaxb
