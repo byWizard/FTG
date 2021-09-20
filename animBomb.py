@@ -28,4 +28,4 @@ class BombMod(loader.Module):
   await sleep(0.5) 
   await message.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n😵😵😵😵 \n")
   await sleep(0.5) 
-  await message.edit("БОМБИТ С ТЕБЯ!")
+  await message.edit("БОМБИТ С ТЕБЯ БЛЯТЬ!")
