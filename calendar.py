@@ -20,3 +20,5 @@ class CalendarMod(loader.Module):
         if year == y and month == m:
             calen = calen.replace(str(d), f'</code><strong>{d}</strong><code>')
         await event.edit(f"<code>\u2060{calen}</code>")
+        
+        #by @axaxaxaxb
